@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ### 😂 Random Dev Meme
-<img src="https://api.memegen.link/images/pigeon/Engineer/_/Is_this_Photoshop~q.png" width="512px"/>
+<img src="https://api.memegen.link/images/pigeon/Engineer/_/Is_this_Photoshop~q.png?style=https://i.imgur.com/W0NXFpQ.png" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=XeresRed&icon=2&color=2)](https://visitcount.itsvg.in)
