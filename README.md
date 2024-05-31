@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-🔭 I’m currently working on EPAM<br>👯 I’m looking to collaborate on any idea that you have or Libraries, Frontend Applications or Fullstack site<br>🤝 I’m looking for help with Node.Js<br>🌱 I’m currently learning about Flutter and go deepening on JavaScript technologies<br>💬 Ask me about Frontend or everything<br>⚡ Fun fact I hate the onion
+🔭 I’m currently working on Resolvit<br>👯 I’m looking to collaborate on any idea that you have or Libraries, Frontend Applications or Fullstack site<br>🤝 I’m looking for help with Node.Js<br>🌱 I’m currently learning about Flutter and go deepening on JavaScript technologies<br>💬 Ask me about Frontend or everything<br>⚡ Fun fact I hate the onion
 
 
 ## 🌐 Socials:
